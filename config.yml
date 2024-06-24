@@ -20,7 +20,7 @@ languages:
       weight: 1
       taxonomies:
         tag: tags
-        blog: blog
+        #blog: blog
         search: search
         english-learning-tips: english-learning-tips 
 
