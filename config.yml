@@ -18,11 +18,11 @@ languages:
     en:
       languageName: "English"
       weight: 1
-      taxonomies:
-        tag: tags
-        blog: blog
-        search: search
-        english-learning-tips: english-learning-tips 
+      #taxonomies:
+        #tag: tags
+        #blog: blog
+        #search: search
+        #english-learning-tips: english-learning-tips 
 
 
 menu:
