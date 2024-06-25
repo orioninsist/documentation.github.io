@@ -160,7 +160,19 @@ params:
     hiddenInSingle: false # hide on single page
 
   socialIcons:
-    - name: "devto"
+    - name: "hackerone"
+      url: "https://hackerone.com/orioninsist"
+    - name: "hackerrank"
+      url: "https://www.hackerrank.com/profile/orioninsist"
+    - name: "spotify"
+      url: "https://podcasters.spotify.com/pod/show/orioninsist"
+    - name: "twitch"
+      url: "https://www.twitch.tv/orioninsist"
+    - name: "telegram"
+      url: "https://https://t.me/+_ssMyWNytbdhNDI0"
+    - name: "discord"    
+      url: "https://discord.gg/njQYWgj8"
+    - name: "dev"
       url: "https://dev.to/orioninsist"
     - name: "email"
       url: "mailto:muratkurkoglu@gmail.com"
