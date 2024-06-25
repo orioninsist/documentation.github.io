@@ -169,7 +169,7 @@ params:
     - name: "twitch"
       url: "https://www.twitch.tv/orioninsist"
     - name: "telegram"
-      url: "https://https://t.me/+_ssMyWNytbdhNDI0"
+      url: "https://t.me/orioninsist"
     - name: "discord"    
       url: "https://discord.gg/njQYWgj8"
     - name: "dev"
