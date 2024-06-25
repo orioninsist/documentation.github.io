@@ -160,9 +160,11 @@ params:
     hiddenInSingle: false # hide on single page
 
   socialIcons:
+    - name: "devto"
+      url: "https://dev.to/orioninsist"
     - name: "email"
       url: "mailto:muratkurkoglu@gmail.com"
-    - name: "linkedin"
+    - name: "linkedin"    
       url: "https://www.linkedin.com/in/murat-kurkoglu/"
     - name: "github"
       url: "https://github.com/orioninsist"
