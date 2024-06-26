@@ -8,7 +8,7 @@ slug = "about"
 description = "Learn English effectively with tips, articles, and resources. Join orioninsist for your language journey."
 tags = ["about"]
 +++
-## My Mission
+## My Purpose
 I aim to provide valuable resources and tips to help you learn English effectively. My goal is to make English learning accessible and enjoyable for everyone.
 
 ## Who I Am
