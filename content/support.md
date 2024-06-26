@@ -6,7 +6,7 @@ description = "Support us to keep our English learning content free and accessib
 author = "murat"
 tags = ["support"]
 slug = "support"
-cover = { image = "/", alt = "support" }
+cover = { image = "/home/murat-kurkoglu-2.webp", alt = "murat-kurkoglu" }
 keywords = ["support"]
 summary = "Support us to keep our English learning content free and accessible. Donate, share, and engage."
 type = "blog"
