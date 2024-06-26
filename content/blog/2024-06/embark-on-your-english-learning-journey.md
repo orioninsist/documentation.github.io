@@ -8,6 +8,10 @@ category = "english-learning-tips"
 tags = ["beginning"]
 slug = "embark-on-your-english-learning-journey"
 cover = { image = "", alt = "" }
+keywords = ["beginning"]
+summary = "Grammar forms the backbone of any language,"
+type = "blog"
+language = "english"
 +++
 
 
