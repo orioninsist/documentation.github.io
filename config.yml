@@ -86,7 +86,11 @@ menu:
     - identifier: contact
       name: Contact
       url: /contact
-      weight: 40    
+      weight: 40
+    - identifier: support
+      name: support
+      url: /support
+      weight: 50    
     #- identifier: resume
     #  name: Resume
     #  url: /resume
