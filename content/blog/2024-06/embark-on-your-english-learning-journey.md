@@ -4,12 +4,11 @@ date = 2024-06-24T00:13:38+03:00
 draft = false
 description = "Welcome to the wonderful world of English! Whether you're aspiring to converse with native speakers, explore new cultures, or enhance your career prospects, mastering the English language opens doors to a myriad of opportunities."
 author = "murat"
-category = "english-learning-tips"
 tags = ["beginning"]
 slug = "embark-on-your-english-learning-journey"
 cover = { image = "", alt = "" }
 keywords = ["beginning"]
-summary = "Grammar forms the backbone of any language,"
+summary = "Welcome to the wonderful world of English!"
 type = "blog"
 language = "english"
 +++
