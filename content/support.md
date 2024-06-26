@@ -27,5 +27,6 @@ Thank you for your support!
 - **Buymeacoffee**: [Buymeacoffee Support](https://buymeacoffee.com/orioninsist)
 - **Ko-fi**: [Ko-fi Support](https://ko-fi.com/orioninsist)
 - **Liberapay**: [Liberapay](https://liberapay.com/orioninsist/)
+- **BTC**:[BTC Address](1L1uS7cyhi9nr4fRHLzgYwLwYdkkqdwFsN)
 
 
