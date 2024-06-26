@@ -6,7 +6,7 @@ description = "Welcome to the wonderful world of English! Whether you're aspirin
 author = "murat"
 tags = ["beginning"]
 slug = "embark-on-your-english-learning-journey"
-cover = { image = "", alt = "" }
+cover = { image = "/blog/2024/06/embark-on-your-english-learning-journey.webp", alt = "embark-on-your-english-learning-journey" }
 keywords = ["beginning"]
 summary = "Welcome to the wonderful world of English!"
 type = "blog"
