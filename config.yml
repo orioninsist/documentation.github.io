@@ -129,6 +129,7 @@ params:
   TocOpen: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: true
   hideMeta: false
   googleAnalytics: ["partials/google_analytics.html"]
   favicon: "/orioninsist-16-16.png"
