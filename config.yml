@@ -93,7 +93,7 @@ menu:
       weight: 50
     - identifier: Archive
       name: Archive    
-      url: archive
+      url: archive/
       weight: 60
     #- identifier: resume
     #  name: Resume
